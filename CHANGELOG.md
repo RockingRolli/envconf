@@ -1,4 +1,4 @@
-# Changelog for envconf
+# Changelog for meconf
 
 ## 0.0.1
 
