@@ -1,8 +1,8 @@
 import os
 import pytest
 
-from envconf.config import get_from_env, env, NoValue, parse_env_file
-from envconf.exceptions import ConfigError
+from meconf.config import get_from_env, env, NoValue, parse_env_file
+from meconf.exceptions import ConfigError
 
 
 str_name = 'test_string'

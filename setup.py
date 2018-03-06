@@ -9,7 +9,7 @@ def readme():
 
 if __name__ == '__main__':
     setup(
-        name='envconf',
+        name='meconf',
         use_scm_version=True,
         description='''''',
         long_description=readme(),
@@ -19,7 +19,7 @@ if __name__ == '__main__':
         author="Roland von Ohlen",
         author_email="webwork@rvo-host.net",
         license='',
-        url='https://github.com/RockingRolli/envconf',
+        url='https://github.com/RockingRolli/meconf',
         scripts=[],
         package_dir={'': 'src'},
         packages=find_packages('src'),
